@@ -4,7 +4,7 @@
 </br>
 
 > ## 🤝 Contribuindo
-cfc
+
 <p>
 Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
 
